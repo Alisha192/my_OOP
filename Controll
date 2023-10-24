@@ -1,0 +1,6 @@
+w moveUp
+s moveDown
+d moveRight
+a moveLeft
+l startGame
+k endGame
